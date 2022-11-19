@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "bytebank_ATENDIMENTO": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

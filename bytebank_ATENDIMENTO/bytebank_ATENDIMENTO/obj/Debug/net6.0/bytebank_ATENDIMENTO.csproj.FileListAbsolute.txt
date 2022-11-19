@@ -1,0 +1,15 @@
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.exe
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.deps.json
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.runtimeconfig.json
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.dll
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.dll
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\refint\bytebank_ATENDIMENTO.dll
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
+E:\Level-up-Wiz-Alura\alura-c#-orientacao-objetos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\ref\bytebank_ATENDIMENTO.dll
